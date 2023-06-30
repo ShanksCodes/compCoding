@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-
+import java.util.Arrays;
 // Class of ReverseString
 public class reverseAString {
 
@@ -17,6 +17,7 @@ public class reverseAString {
             }
 
            return new String(reverseInput); 
+         
      }
 	public static void main(String[] args)
 	 {
